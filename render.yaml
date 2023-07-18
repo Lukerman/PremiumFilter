@@ -20,8 +20,16 @@ services:
         sync: false
       - key: DATABASE_URI
         sync: false 
-      - key: PICS
+      - key: FILE_REQ_CHANNEL
         sync: false
       - key: LOG_CHANNEL
-        sync: false    
+        synce: false
+        -key: AUTO_DELETE_SECONDS
+        synce: false
+        - key: HOW_TO_DOWNLOAD
+        synce: false
+        - key: SHORTNER_SITE
+        synce: false
+        - key: SHORTNER_API
+        synce: false
     autoDeploy: false
