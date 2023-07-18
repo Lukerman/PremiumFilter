@@ -22,6 +22,4 @@ services:
         sync: false
         - key: LOG_CHANNEL
         synce: false
-       - key: HOW_TO_DOWNLOAD
-        synce: false
     autoDeploy: false
