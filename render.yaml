@@ -1,23 +1,25 @@
 services:
   - type: web
     plan: free
-    name: autofilterabhi
+    name: AutoFilterBotkans
     env: python
     buildCommand: pip install -r requirements.txt
     startCommand: python3 bot.py
-    repo: https://github.com/Lukerman/PremiumFilter.git      
+    repo: https://github.com/Lukerman/PremiumFilter.git  
     branch: Tamilans-Working-Branch
     envVars:
-      - key: BOT_TOKEN
+      - key: BOT_TOKEN 
         sync: false
-      - key: API_ID
+      - key: API_ID 
         sync: false
       - key: API_HASH
         sync: false
       - key: ADMINS
         sync: false
+      - key: DATABASE_NAME
+        sync: false
       - key: DATABASE_URI
         sync: false
       - key: LOG_CHANNEL
-        synce: false
+        sync: false
     autoDeploy: false
