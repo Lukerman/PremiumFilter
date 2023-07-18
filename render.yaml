@@ -16,8 +16,6 @@ services:
         sync: false
       - key: ADMINS
         sync: false
-      - key: DATABASE_NAME
-        sync: false
       - key: DATABASE_URI
         sync: false
       - key: LOG_CHANNEL
