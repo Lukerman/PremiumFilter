@@ -8,9 +8,9 @@ services:
     repo: https://github.com/Lukerman/PremiumFilter.git      
     branch: Tamilans-Working-Branch
     envVars:
-      - key: BOT_TOKEN 
+      - key: BOT_TOKEN
         sync: false
-      - key: API_ID 
+      - key: API_ID
         sync: false
       - key: API_HASH
         sync: false
@@ -18,6 +18,6 @@ services:
         sync: false
       - key: DATABASE_URI
         sync: false
-        - key: LOG_CHANNEL
+      - key: LOG_CHANNEL
         synce: false
     autoDeploy: false
