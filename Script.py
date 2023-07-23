@@ -32,7 +32,7 @@ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Nᴏᴡ 👇</b>"""
 
 - 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/Jobgodfree_bot>sʜᴀʀᴀᴛʜ</a>
 
-- & Rᴇᴩᴏ Lɪɴᴋ 👇 Hᴇʀᴇ"""
+"""
 
     SOURCE_TXT = """Tʜɪs Is Aɴ Oᴩᴇɴ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @Luckerman_Botz</b>
 
